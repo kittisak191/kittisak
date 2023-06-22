@@ -1,0 +1,13 @@
+.header-navbar-collapse-left {
+  font-size: 30px !important;
+  margin-left: 100px;
+}
+.header-navbar-collapse-right {
+  font-size: 20px;
+  margin-right: 70px;
+  justify-content: flex-end;
+}
+nav {
+  height: 75px;
+  background-color: #273959;
+}

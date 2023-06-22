@@ -1,0 +1,12 @@
+.footer {
+  position: sticky;
+  padding-top: 15px;
+  top: 100%;
+  left: 0;
+  bottom: 0;
+  height: 60px;
+  width: 100%;
+  color: white;
+  background-color: #273959;
+  text-align: center;
+}

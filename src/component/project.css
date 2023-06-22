@@ -1,0 +1,71 @@
+.project-container {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.project-head h1 {
+  font-family: "Roboto Mono", monospace;
+  font-size: 65px;
+  margin-bottom: 60px;
+}
+.Mylist {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  cursor: pointer;
+  overflow: hidden;
+}
+
+.Mylist .item:hover .link {
+  visibility: visible;
+}
+
+.Mylist .item:hover img {
+  transform: scale(1.1);
+  transition-duration: 0.5s;
+}
+
+.item {
+  position: relative;
+  padding: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  width: 300px;
+  height: 300px;
+  overflow: hidden;
+}
+
+.image {
+  width: 100%;
+  height: 100%;
+}
+
+.image img {
+  object-fit: cover;
+}
+
+.link {
+  transition: all 0.3s ease-in-out;
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0.8;
+  background-color: white;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  visibility: hidden;
+}
+
+.link a {
+  color: black;
+  margin-right: 10px;
+}
+
+.icon {
+  font-size: 54px;
+}

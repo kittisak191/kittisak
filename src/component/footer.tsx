@@ -5,7 +5,7 @@ function Footer() {
     <footer className="footer">
       <div className="container-fuild">
         <div className="col-12 ">
-          <p>© Copyright ZenBlog. All Rights Reserved</p>
+          <p>© Copyright Kittisakn. All Rights Reserved</p>
         </div>
       </div>
     </footer>

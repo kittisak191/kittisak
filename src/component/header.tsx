@@ -5,13 +5,13 @@ function Header() {
   return (
     <div>
       <nav
-        className="navbar navbar-expand-sm navbar-dark "
+        className="navbar navbar-expand-sm navbar-dark navbar-expand-lg"
         aria-label="Third navbar example"
       >
-        <div className="container-fluid">
-          <Link className="navbar-brand header-navbar-collapse-left" to="/">
-            Kittisak
-          </Link>
+        <div className="container-fluid header-container">
+          <span className="navbar-brand header-navbar-collapse-left">
+            My Website
+          </span>
           <button
             className="navbar-toggler"
             type="button"
@@ -23,11 +23,11 @@ function Header() {
           >
             <span className="navbar-toggler-icon"></span>
           </button>
-          <div
+          <span
             className="collapse navbar-collapse header-navbar-collapse-right"
             id="navbarsExample03"
           >
-            <ul className="navbar-nav ms-auto mb-2 mb-sm-0">
+            <ul className="navbar-nav mr-auto">
               <li className="nav-item">
                 <Link className="nav-link" to="/">
                   Home
@@ -54,7 +54,7 @@ function Header() {
                 </Link>
               </li>
             </ul>
-          </div>
+          </span>
         </div>
       </nav>
     </div>

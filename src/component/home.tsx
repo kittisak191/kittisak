@@ -14,7 +14,7 @@ function Home() {
             <p>This is a website portfolio developed by me</p>
             <br />
             <p>
-              will take you to visit the website developed by me. Here are the
+              I will take you to visit the website developed by me. Here are the
               details about me. I studied and tried to work in the field of
               programmers for a while. I like and enjoy it in this field.
             </p>

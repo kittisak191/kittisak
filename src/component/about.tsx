@@ -7,12 +7,12 @@ function About() {
       <Header />
       <div className="container about-container">
         <div className="col-md-12 text-center about-head">
-          <h1>About us</h1>
+          <h1>About</h1>
         </div>
         <div className="row about-row">
           <div className="col-md-5">
             <div className="card about-card">
-              <h2>About us</h2>
+              <h2>About </h2>
               <p>
                 Hi My name is Kittisak Kaewka, and my nickname is New. I
                 graduated in computer science from Naresuan University. I am

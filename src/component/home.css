@@ -41,10 +41,17 @@ body {
   margin-left: 30px;
   margin-top: 65px;
   object-fit: cover;
+  max-height: 100%;
   animation: float 3.5s ease-out infinite;
 }
 @keyframes float {
   50% {
     transform: translateY(40px);
+  }
+}
+@media (max-width: 575.98px) {
+  .home-image {
+    width: 90%;
+    margin-left: 0;
   }
 }

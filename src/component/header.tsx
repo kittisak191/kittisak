@@ -13,7 +13,7 @@ function Header() {
             My Website
           </span>
           <button
-            className="navbar-toggler"
+            className="navbar-toggler header-navbar-toggler"
             type="button"
             data-bs-toggle="collapse"
             data-bs-target="#navbarsExample03"

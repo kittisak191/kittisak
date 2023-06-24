@@ -49,13 +49,21 @@
     margin-right: 0px !important;
   }
 }
-
+@media (max-width: 779.98px) {
+  .header-navbar-collapse-left {
+    margin-left: 80px !important;
+    padding-left: 0px !important;
+  }
+  .header-navbar-collapse-right .nav-link {
+    margin-left: 0px;
+  }
+}
 @media (max-width: 767.98px) {
   .header-navbar-collapse-right .nav-link {
     margin-left: 0px;
   }
   .header-navbar-collapse-left {
-    margin-left: 30px !important;
+    margin-left: 0px !important;
   }
   .header-navbar-collapse-right {
     margin-right: 0px !important;

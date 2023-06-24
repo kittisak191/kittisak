@@ -94,7 +94,11 @@ function Gallery() {
       </div>
       <div className="container ">
         <div className="row row-gallery">
-          <div className="item gallery-item col-lg-4 col-md-6 col-sm-12">
+          <div
+            className="item gallery-item col-lg-4 col-md-6 col-sm-12"
+            data-aos="fade-up"
+            data-aos-duration="2500"
+          >
             <div className="card gallery-card">
               <img
                 className="img-fluid gallery-image gallery-image-1"
@@ -102,7 +106,11 @@ function Gallery() {
               />
             </div>
           </div>
-          <div className="item gallery-item col-lg-4 col-md-6 col-sm-12">
+          <div
+            className="item gallery-item col-lg-4 col-md-6 col-sm-12"
+            data-aos="fade-up"
+            data-aos-duration="2500"
+          >
             <div className="card gallery-card">
               <img
                 className="img-fluid gallery-image gallery-image-2"
@@ -110,7 +118,11 @@ function Gallery() {
               />
             </div>
           </div>
-          <div className="item gallery-item col-lg-4 col-md-6 col-sm-12">
+          <div
+            className="item gallery-item col-lg-4 col-md-6 col-sm-12"
+            data-aos="fade-up"
+            data-aos-duration="2500"
+          >
             <div className="card gallery-card">
               <img
                 className="img-fluid gallery-image gallery-image-3"
@@ -118,7 +130,11 @@ function Gallery() {
               />
             </div>
           </div>
-          <div className="item gallery-item col-lg-4 col-md-6 col-sm-12">
+          <div
+            className="item gallery-item col-lg-4 col-md-6 col-sm-12"
+            data-aos="fade-up"
+            data-aos-duration="2500"
+          >
             <div className="card gallery-card">
               <img
                 className="img-fluid gallery-image gallery-image-4"
@@ -126,7 +142,11 @@ function Gallery() {
               />
             </div>
           </div>
-          <div className="item gallery-item col-lg-4 col-md-6 col-sm-12">
+          <div
+            className="item gallery-item col-lg-4 col-md-6 col-sm-12"
+            data-aos="fade-up"
+            data-aos-duration="2500"
+          >
             <div className="card gallery-card">
               <img
                 className="img-fluid gallery-image gallery-image-5"
@@ -134,7 +154,11 @@ function Gallery() {
               />
             </div>
           </div>
-          <div className="item gallery-item col-lg-4 col-md-6 col-sm-12">
+          <div
+            className="item gallery-item col-lg-4 col-md-6 col-sm-12"
+            data-aos="fade-up"
+            data-aos-duration="2500"
+          >
             <div className="card gallery-card">
               <img
                 className="img-fluid gallery-image gallery-image-6"
@@ -142,8 +166,11 @@ function Gallery() {
               />
             </div>
           </div>
-
-          <div className="item gallery-item col-lg-4 col-md-6 col-sm-12">
+          <div
+            className="item gallery-item col-lg-4 col-md-6 col-sm-12"
+            data-aos="fade-up"
+            data-aos-duration="2500"
+          >
             <div className="card gallery-card">
               <img
                 className="img-fluid gallery-image gallery-image-7"
@@ -151,7 +178,11 @@ function Gallery() {
               />
             </div>
           </div>
-          <div className="item gallery-item col-lg-4 col-md-6 col-sm-12">
+          <div
+            className="item gallery-item col-lg-4 col-md-6 col-sm-12"
+            data-aos="fade-up"
+            data-aos-duration="2500"
+          >
             <div className="card gallery-card">
               <img
                 className="img-fluid gallery-image gallery-image-8"
@@ -159,7 +190,11 @@ function Gallery() {
               />
             </div>
           </div>
-          <div className="item gallery-item col-lg-4 col-md-6 col-sm-12">
+          <div
+            className="item gallery-item col-lg-4 col-md-6 col-sm-12"
+            data-aos="fade-up"
+            data-aos-duration="2500"
+          >
             <div className="card gallery-card">
               <img
                 className="img-fluid gallery-image gallery-image-9"

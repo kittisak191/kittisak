@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import "./home.css";
 import Header from "./header";
 import Footer from "./footer";
-import React, { useEffect } from "react";
+import { useEffect } from "react";
 import AOS from "aos";
 
 function Home() {

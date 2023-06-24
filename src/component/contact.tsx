@@ -5,8 +5,14 @@ import { faEnvelope } from "@fortawesome/free-solid-svg-icons/faEnvelope";
 import { faPhone } from "@fortawesome/free-solid-svg-icons/faPhone";
 import Header from "./header";
 import Footer from "./footer";
+import { useEffect } from "react";
+import AOS from "aos";
 
 function Contact() {
+  useEffect(() => {
+    AOS.init();
+    AOS.refresh();
+  }, []);
   return (
     <div>
       <Header />

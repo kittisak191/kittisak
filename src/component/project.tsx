@@ -3,8 +3,14 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faChrome, faGithub } from "@fortawesome/free-brands-svg-icons";
 import Header from "./header";
 import Footer from "./footer";
+import { useEffect } from "react";
+import AOS from "aos";
 
 function Project() {
+  useEffect(() => {
+    AOS.init();
+    AOS.refresh();
+  }, []);
   return (
     <div>
       <Header />

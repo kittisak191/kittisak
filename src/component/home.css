@@ -8,14 +8,13 @@ body {
   ) !important;
 }
 .left h1 {
-  font-family: "Roboto Mono", monospace;
   color: white;
 }
 .left p {
-  font-family: "Roboto Mono", monospace;
   color: white;
 }
 .home-container {
+  font-family: "Noto Sans Cypro Minoan", sans-serif;
   align-items: center;
   justify-content: center;
   margin-top: 50px;

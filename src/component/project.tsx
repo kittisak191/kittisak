@@ -27,7 +27,7 @@ function Project() {
                 <div className="card project-card">
                   <img className="img-fluid  image" src="/img/shop.png" />
                   <div className="link">
-                    <a href="https://api-shop-omega.vercel.app/">
+                    <a href="https://api-shop-rho.vercel.app/">
                       <FontAwesomeIcon className="icon" icon={faChrome} />
                     </a>
                     <a href="https://github.com/kittisak191/Api-shop">

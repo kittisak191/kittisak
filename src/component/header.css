@@ -3,6 +3,7 @@
   font-size: 30px !important;
   display: flex;
   align-items: center;
+  font-family: "Noto Sans Cypro Minoan", sans-serif;
 }
 
 .nav-link {
@@ -17,6 +18,7 @@
 }
 
 .header-navbar-collapse-right {
+  font-family: "Noto Sans Cypro Minoan", sans-serif;
   margin-right: 20px;
   padding-left: 20px;
   font-size: 20px;

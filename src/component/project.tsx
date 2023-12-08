@@ -27,7 +27,7 @@ function Project() {
                 <div className="card project-card">
                   <img className="img-fluid  image" src="/img/shop.png" />
                   <div className="link">
-                    <a href="https://api-shop-rho.vercel.app/">
+                    <a href="https://api-shop-tau.vercel.app/">
                       <FontAwesomeIcon className="icon" icon={faChrome} />
                     </a>
                     <a href="https://github.com/kittisak191/Api-shop">
@@ -67,10 +67,10 @@ function Project() {
                 <div className="card project-card">
                   <img className="img-fluid image" src="/img/pokeball.png" />
                   <div className="link">
-                    <a href="https://pokemon-s-api.web.app/">
+                    <a href="https://pokemon-go-seven.vercel.app/">
                       <FontAwesomeIcon className="icon" icon={faChrome} />
                     </a>
-                    <a href="https://github.com/kittisak191/pokemon-s-api">
+                    <a href="https://github.com/kittisak191/Pokemon-Go">
                       <FontAwesomeIcon className="icon" icon={faGithub} />
                     </a>
                   </div>

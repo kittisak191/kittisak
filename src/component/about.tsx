@@ -71,8 +71,8 @@ function About() {
                 <p>TypeScript</p>
                 <p>HTLM</p>
                 <p>CSS</p>
-                <p>Php</p>
-                <p>Dart</p>
+                <p>Rudux</p>
+                <p>Ant Design</p>
               </div>
             </div>
           </div>
@@ -83,7 +83,6 @@ function About() {
               <div className="card about-card">
                 <h2>Framework</h2>
                 <p>React</p>
-                <p>Flutter</p>
                 <p>Bootstrap</p>
               </div>
             </div>
